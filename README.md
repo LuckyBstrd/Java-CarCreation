@@ -21,3 +21,4 @@ y algunos setters y getters
 Un metodo para imprimir los valores de nuestro carro
 y algunos metodos para interactuar con este carro
 
+*****Contiene un archivo de frame de pruebas este no interactua con el programa en caso de usarlo seria recomendable eliminarlo
